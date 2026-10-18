@@ -28,7 +28,7 @@ $env:SONOVEL_HOME = 'C:\Coder\so-novel\runtime\SoNovel'
 .\.venv\Scripts\python.exe tests\mcp_smoke.py
 ~~~
 
-Trên COLINPC đã có So Novel tại C:\Coder\so-novel\runtime\SoNovel, có thể dùng đường dẫn đó thay C:\Coder\so-novel\runtime\SoNovel.
+Trên COLINPC, ứng dụng So Novel nằm tại C:\Coder\so-novel\runtime\SoNovel. Thư mục runtime/ không được commit; máy mới cần giải nén Java release riêng.
 
 Biến môi trường:
 - SONOVEL_HOME: thư mục chương trình Java So Novel.
