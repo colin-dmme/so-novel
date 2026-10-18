@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+workspace/
+logs/
+*.epub
+*.pdf
+*.zip
+*.jar
+*.exe
+*.tar.gz
+.env
+.env.*
+config-local.ini

@@ -17,3 +17,11 @@ logs/
 bundle/jre*.zip
 
 config-dev.ini
+# Integrated So Novel MCP local files and Java release
+/runtime/
+/so_novel_mcp/.venv/
+/so_novel_mcp/workspace/
+/so_novel_mcp/__pycache__/
+/so_novel_mcp/.pytest_cache/
+/so_novel_mcp/tests/__pycache__/
+*.pyc
